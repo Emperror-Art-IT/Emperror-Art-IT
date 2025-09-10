@@ -6,4 +6,10 @@ Latest YouTube Videos
 
 Languages and Tools
 
+![Python](https://img.shields.io/badge/-Python-be4648?style=for-the-badge&logo=Python&logoColor=ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-be4648?style=for-the-badge&logo=GitHub&logoColor=000000)
+![MySQL](https://img.shields.io/badge/-MySQL-be4648?style=for-the-badge&logo=MySQL&logoColor=00618b)
+![Postman](https://img.shields.io/badge/-Postman-be4648?style=for-the-badge&logo=Postman&logoColor=fe6e21)
+
+
 Follow Me
