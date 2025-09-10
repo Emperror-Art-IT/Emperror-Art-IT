@@ -1,6 +1,6 @@
 [![Header](https://github.com/Emperror-Art-IT/Emperror-Art-IT/blob/main/assets/ae70cf08e2711f08af01aef1b6231df_4-fotor-20250910122240.png)](https://www.instagram.com/emperrorart/)
 
-## About me
+## About Me
 <em style="font-style: italic;">I'm a beginner manual tester from Belarus.</em>
 
 ## Languages and Tools
@@ -14,8 +14,20 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=0395dd)](https://t.me/emperrorart)
 
 <details>
-  <summary><b>🛠️ Empty</b></summary>
+  <summary><b>🛠️ Empty 1</b></summary>
   <br>
   <em style="font-style: italic;">It says it's empty...</em>
+</details>
+
+<details>
+  <summary><b>🛠️ Empty 2</b></summary>
+  <br>
+  <em style="font-style: italic;">And here too it is empty.</em>
+</details>
+
+<details>
+  <summary><b>🛠️ Empty 3</b></summary>
+  <br>
+  <em style="font-style: italic;">Yes, yes, and here too!</em>
 </details>
   
