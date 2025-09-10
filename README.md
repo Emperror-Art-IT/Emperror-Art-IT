@@ -1,7 +1,20 @@
 [![Header](https://github.com/Emperror-Art-IT/Emperror-Art-IT/blob/main/assets/ae70cf08e2711f08af01aef1b6231df_4-fotor-20250910122240.png)](https://www.instagram.com/emperrorart/)
 
 ## About Me
-<em style="font-style: italic;">I'm a beginner manual tester from Belarus.</em>
+<em style="font-style: italic;">
+I'm a beginner manual tester from Belarus.<br>
+<br>
+Education:<br>
+2009 - 2014 - Belarusian-Russian University, Faculty of Industrial and Civil Engineering.<br>
+<br>
+Experience:<br>
+2014 - 2016 - In a construction company as a construction and installation works master.<br>
+2016 - 2018 - In a construction company as a construction and installation works foreman.<br>
+2018 - 2023 - In a private company manufacturing wood products as a technologist.<br>
+2018 - 2025 - In a private company manufacturing wood products as a chief technologist.<br>
+<br>
+Languages: Russian - Native, Belorussian - Native, English - Pre-Intermediate.<br>
+</em>
 
 ## Languages and Tools
 [![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Python&logoColor=ffffff)](https://www.python.org)
