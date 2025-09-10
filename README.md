@@ -1,13 +1,9 @@
 [![Header](https://github.com/Emperror-Art-IT/Emperror-Art-IT/blob/main/assets/ae70cf08e2711f08af01aef1b6231df_4-fotor-20250910122240.png)](https://www.instagram.com/emperrorart/)
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com/?lines=There will be something written here.;Some day.;But I don't know when yet.&font=Fira%20Code&left=true&width=500&height=30&duration=1000&pause=200">
-</p>
-
 ## About Me
 
 <em style="font-style: italic;">
-<a href="https://hh.ru/resume/de663738ff0ed1a3f10039ed1f4a494e58484f" target="_blank" rel="noopener noreferrer">Link to my CV</a> <br>
+<a href="https://hh.ru/resume/de663738ff0ed1a3f10039ed1f4a494e58484f" target="_blank" rel="noopener noreferrer">Link to my CV.</a> <br>
 <br>
 I'm a beginner manual tester from Belarus</a>.<br>
 <br>
@@ -51,5 +47,8 @@ Languages: Russian - Native, Belorussian - Native, English - Pre-Intermediate.<b
   <em style="font-style: italic;">Yes, yes, and here too!</em>
 </details>
 
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com/?lines=There will be something written here.;Some day.;But I don't know when yet.&font=Fira%20Code&left=true&width=500&height=30&duration=1000&pause=200">
+</p>
 
   
