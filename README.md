@@ -2,7 +2,8 @@
 
 ## About Me
 <em style="font-style: italic;">
-I'm a beginner manual tester from Belarus.<br>
+<a href="https://hh.ru/resume/de663738ff0ed1a3f10039ed1f4a494e58484f" target="_blank" rel="noopener noreferrer">Link to my CV</a> <br><br>
+I'm a beginner manual tester from Belarus</a>.<br>
 <br>
 Education:<br>
 2009 - 2014 - Belarusian-Russian University, Faculty of Industrial and Civil Engineering.<br>
