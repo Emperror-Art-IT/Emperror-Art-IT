@@ -1,10 +1,11 @@
 [![Header](https://github.com/Emperror-Art-IT/Emperror-Art-IT/blob/main/assets/ae70cf08e2711f08af01aef1b6231df_4-fotor-20250910122240.png)](https://www.instagram.com/emperrorart/)
 
-<p style="text-align: left;">
-  <img src="https://readme-typing-svg.demolab.com/?lines=There will be something written here.;Some day.;But I don't know when yet.&font=Fira%20Code&left=true&width=500&height=30&duration=2000&pause=200" alt="Example Usage - README Typing SVG">
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com/?lines=There will be something written here.;Some day.;But I don't know when yet.&font=Fira%20Code&left=true&width=500&height=30&duration=1000&pause=200" alt="Example Usage - README Typing SVG">
 </p>
 
 ## About Me
+
 <em style="font-style: italic;">
 <a href="https://hh.ru/resume/de663738ff0ed1a3f10039ed1f4a494e58484f" target="_blank" rel="noopener noreferrer">Link to my CV</a> <br>
 <br>
