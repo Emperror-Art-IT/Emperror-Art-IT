@@ -7,18 +7,23 @@
 <br>
 I'm a beginner manual tester from Belarus</a>.<br>
 <br>
-Education:<br>
+<b>Education:</b><br>
 2009 - 2014 - Belarusian-Russian University, Faculty of Industrial and Civil Engineering.<br>
-August 2024 - May 2025 - Self-study of Python programming basics using books and YouTube videos.<br>
-June 2024 - Oktober 2025 - Study of manual testing based on the online course on the Stepik platform (<a href="https://stepik.org/cert/2955360?lang=en" target="_blank" rel="noopener noreferrer">link to certificate.</a>).<br>
 <br>
-Experience:<br>
+<b>Additional education:</b><br>
+August 2024 - May 2025<br>
+Self-study of Python programming basics using books and YouTube videos.<br>
+June 2025 - Oktober 2025<br>
+Study of manual testing based on the online course on the Stepik platform (<a href="https://stepik.org/cert/2955360?lang=en" target="_blank" rel="noopener noreferrer">link to certificate.</a>).<br>
+<br>
+<b>Experience:</b><br>
 2014 - 2016 - In a construction company as a construction and installation works master.<br>
 2016 - 2018 - In a construction company as a construction and installation works foreman.<br>
 2018 - 2023 - In a private company manufacturing wood products as a technologist.<br>
 2018 - 2025 - In a private company manufacturing wood products as a chief technologist.<br>
 <br>
-Languages: Russian - Native, Belorussian - Native, English - Pre-Intermediate.<br>
+<b>Languages:</b><br>
+Russian - Native, Belorussian - Native, English - Pre-Intermediate.<br>
 </em>
 
 ## Languages and Tools
