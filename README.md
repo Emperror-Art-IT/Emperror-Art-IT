@@ -1,11 +1,17 @@
 [![Header](https://github.com/Emperror-Art-IT/Emperror-Art-IT/blob/main/assets/ae70cf08e2711f08af01aef1b6231df_4-fotor-20250910122240.png)](https://www.instagram.com/emperrorart/)
 
 ## About Me
-
+I'm a beginner manual tester from Belarus</a>.<br>
+<br>
+<b>Artem Gorbachevsky.</b><br>
+<b>DoB:</b> 05.03.1992.<br>
+<b>Phone:</b> +375297466650.<br>
+<b>Email:</b> <a href="mailto:emperrorartit@gmail.com">emperrorartit@gmail.com</a>.<br>
+<b>Telegram:</b> <a href="https://t.me/emperrorart" target="_blank" rel="noopener noreferrer">@emperrorart</a>.<br>
+<b>Linkedin:</b> <a href="www.linkedin.com/in/emperrorartit" target="_blank" rel="noopener noreferrer">www.linkedin.com/in/emperrorartit</a>.<br>
+<br>
 <em style="font-style: italic;">
 <a href="https://hh.ru/resume/de663738ff0ed1a3f10039ed1f4a494e58484f" target="_blank" rel="noopener noreferrer">Link to my CV.</a> <br>
-<br>
-I'm a beginner manual tester from Belarus</a>.<br>
 <br>
 <b>Education:</b><br>
 2009 - 2014 - Belarusian-Russian University, Faculty of Industrial and Civil Engineering.<br>
