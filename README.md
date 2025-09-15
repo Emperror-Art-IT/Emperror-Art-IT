@@ -12,7 +12,7 @@ I'm a beginner manual tester from Belarus</a>.<br>
 <br>
 <b>Additional education:</b><br>
 August 2024 - May 2025<br>
-Self-study of Python programming basics using books and YouTube videos.<br>
+Self-study the basics of programming and the Python programming language using books and videos.<br>
 June 2025 - Oktober 2025<br>
 Study of manual testing based on the online course on the Stepik platform (<a href="https://stepik.org/cert/2955360?lang=en" target="_blank" rel="noopener noreferrer">link to certificate.</a>).<br>
 <br>
