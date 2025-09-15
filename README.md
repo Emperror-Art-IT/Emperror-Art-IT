@@ -10,8 +10,8 @@ I'm a beginner manual tester from Belarus</a>.<br>
 <b>DoB:</b> 05.03.1992.<br>
 <b>Phone:</b> +375297466650.<br>
 <b>Email:</b> <a href="mailto:emperrorartit@gmail.com">emperrorartit@gmail.com</a>.<br>
-<b>Telegram:</b> <a href="https://t.me/emperrorart" target="_blank" rel="noopener noreferrer">@emperrorart</a>.<br>
-<b>LinkedIn:</b> <a href="https://www.linkedin.com/in/emperrorart/" target="_blank" rel="noopener noreferrer">/emperrorartit</a>.<br>
+<b>Telegram:</b> <a href="https://t.me/emperrorart" target="_blank" rel="noopener noreferrer">emperrorart</a>.<br>
+<b>LinkedIn:</b> <a href="https://www.linkedin.com/in/emperrorart/" target="_blank" rel="noopener noreferrer">emperrorart</a>.<br>
 <br>
 <b>Education:</b><br>
 2009 - 2014 - Belarusian-Russian University, Faculty of Industrial and Civil Engineering.<br>
