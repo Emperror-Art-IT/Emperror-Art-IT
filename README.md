@@ -29,8 +29,6 @@ I'm a beginner manual tester from Belarus</a>.<br>
   <i>Study of manual testing based on the online course on the Stepik platform</i> (<a href="https://stepik.org/cert/2955360?lang=en" target="_blank" rel="noopener noreferrer">link to certificate.</a>).</em>
 </details>
 
-<br>
-
 <!-- Experience -->
 <details>
   <summary><b>Experience:</b>
