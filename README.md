@@ -1,6 +1,9 @@
 [![Header](https://github.com/Emperror-Art-IT/Emperror-Art-IT/blob/main/assets/ae70cf08e2711f08af01aef1b6231df_4-fotor-20250910122240.png)](https://www.instagram.com/emperrorart/)
 
 ## About Me
+<!-- <em style="font-style: italic;"> -->
+<a href="https://hh.ru/resume/de663738ff0ed1a3f10039ed1f4a494e58484f" target="_blank" rel="noopener noreferrer">Link to my CV.</a> <br>
+<br>
 I'm a beginner manual tester from Belarus</a>.<br>
 <br>
 <b>Artem Gorbachevsky.</b><br>
@@ -8,10 +11,7 @@ I'm a beginner manual tester from Belarus</a>.<br>
 <b>Phone:</b> +375297466650.<br>
 <b>Email:</b> <a href="mailto:emperrorartit@gmail.com">emperrorartit@gmail.com</a>.<br>
 <b>Telegram:</b> <a href="https://t.me/emperrorart" target="_blank" rel="noopener noreferrer">@emperrorart</a>.<br>
-<b>Linkedin:</b> <a href="https://www.linkedin.com/in/artem-gorbachevsky-242501384/" target="_blank" rel="noopener noreferrer">linkedin emperrorartit</a>.<br>
-<br>
-<em style="font-style: italic;">
-<a href="https://hh.ru/resume/de663738ff0ed1a3f10039ed1f4a494e58484f" target="_blank" rel="noopener noreferrer">Link to my CV.</a> <br>
+<b>LinkedIn:</b> <a href="https://www.linkedin.com/in/artem-gorbachevsky-242501384/" target="_blank" rel="noopener noreferrer">/emperrorartit</a>.<br>
 <br>
 <b>Education:</b><br>
 2009 - 2014 - Belarusian-Russian University, Faculty of Industrial and Civil Engineering.<br>
