@@ -23,11 +23,12 @@ I'm a beginner manual tester from Belarus</a>.<br>
   <div style="margin-left: 30px;">
   August 2024 - May 2025<br>
   &nbsp;&nbsp;&nbsp;
-  Self-study the basics of programming and the Python programming language using books and videos.<br>
+  <i>Self-study the basics of programming and the Python programming language using books and videos.</i><br>
   June 2025 - Oktober 2025<br>
   &nbsp;&nbsp;&nbsp;
-  Study of manual testing based on the online course on the Stepik platform (<a href="https://stepik.org/cert/2955360?lang=en" target="_blank" rel="noopener noreferrer">link to certificate.</a>).<br></em>
+  <i>Study of manual testing based on the online course on the Stepik platform</i> (<a href="https://stepik.org/cert/2955360?lang=en" target="_blank" rel="noopener noreferrer">link to certificate.</a>).</em>
 </details>
+
 <br>
 
 <!-- Experience -->
@@ -37,16 +38,16 @@ I'm a beginner manual tester from Belarus</a>.<br>
   <div style="margin-left: 30px;">
  2014 - 2016<br>
  &nbsp;&nbsp;&nbsp;
- In a construction company as a construction and installation works master.<br>
+ <i> In a construction company as a construction and installation works master.</i><br>
  2016 - 2018<br>
  &nbsp;&nbsp;&nbsp;
- In a construction company as a construction and installation works foreman.<br>
+ <i> In a construction company as a construction and installation works foreman.</i><br>
  2018 - 2023<br>
  &nbsp;&nbsp;&nbsp;
- In a private company manufacturing wood products as a technologist.<br>
+ <i> In a private company manufacturing wood products as a technologist.</i><br>
  2018 - 2025<br>
  &nbsp;&nbsp;&nbsp;
- In a private company manufacturing wood products as a chief technologist..<br></em>
+ <i> In a private company manufacturing wood products as a chief technologist.</i></em>
 </details>
 
 ## Languages and Tools
