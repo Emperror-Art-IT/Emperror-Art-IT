@@ -59,16 +59,20 @@ I'm a beginner manual tester from Belarus</a>.<br>
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=0395dd)](https://t.me/emperrorart)
 
 <!-- Sample code with drop down menu -->
+<!--
 <details>
   <summary><b>🛠️ Empty 1</b></summary>
   <br>
   <em style="font-style: italic;">It says it's empty...</em>
 </details>
 <br>
+-->
 
 <!-- Sample code with running line -->
+<!--
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com/?lines=There will be something written here.;Some day.;But I don't know when yet.&font=Fira%20Code&left=true&width=500&height=30&duration=1000&pause=200">
 </p>
+-->
 
   
