@@ -8,7 +8,7 @@ I'm a beginner manual tester from Belarus</a>.<br>
 <b>Phone:</b> +375297466650.<br>
 <b>Email:</b> <a href="mailto:emperrorartit@gmail.com">emperrorartit@gmail.com</a>.<br>
 <b>Telegram:</b> <a href="https://t.me/emperrorart" target="_blank" rel="noopener noreferrer">@emperrorart</a>.<br>
-<b>Linkedin:</b> <a href="www.linkedin.com/in/emperrorartit" target="_blank" rel="noopener noreferrer">www.linkedin.com/in/emperrorartit</a>.<br>
+<b>Linkedin:</b> <a href="https://www.linkedin.com/in/artem-gorbachevsky-242501384/" target="_blank" rel="noopener noreferrer">linkedin emperrorartit</a>.<br>
 <br>
 <em style="font-style: italic;">
 <a href="https://hh.ru/resume/de663738ff0ed1a3f10039ed1f4a494e58484f" target="_blank" rel="noopener noreferrer">Link to my CV.</a> <br>
