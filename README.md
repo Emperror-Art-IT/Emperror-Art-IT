@@ -9,6 +9,8 @@ I'm a beginner manual tester from Belarus</a>.<br>
 <br>
 Education:<br>
 2009 - 2014 - Belarusian-Russian University, Faculty of Industrial and Civil Engineering.<br>
+August 2024 - May 2025 - Self-study of Python programming basics using books and YouTube videos.<br>
+June 2024 - Oktober 2025 - Study of manual testing based on the online course on the Stepik platform (<a href="https://stepik.org/cert/2955360?lang=en" target="_blank" rel="noopener noreferrer">link to certificate.</a>).<br>
 <br>
 Experience:<br>
 2014 - 2016 - In a construction company as a construction and installation works master.<br>
