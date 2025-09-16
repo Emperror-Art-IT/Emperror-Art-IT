@@ -2,7 +2,9 @@
 
 ## About Me
 <!-- <em style="font-style: italic;"> -->
-My name <b>Artem Gorbachevsky.</b> I'm a beginner manual tester from Belarus</a>.<br>
+My name <b>Artem Gorbachevsky.</b> 
+<br>
+I'm a beginner <b>manual tester</b> from Belarus</a>.<br>
 <br>
 <b>Link to my CV:</b>
 <a href="https://disk.yandex.ru/i/E9_hkTBGE6xbJg" target="_blank" rel="noopener noreferrer">English</a>.pdf /
