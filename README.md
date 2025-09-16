@@ -2,7 +2,7 @@
 
 ## About Me
 <!-- <em style="font-style: italic;"> -->
-I'm a beginner manual tester from Belarus</a>.<br>
+My name <b>Artem Gorbachevsky.</b> I'm a beginner manual tester from Belarus</a>.<br>
 <br>
 <b>Link to my CV:</b>
 <a href="https://disk.yandex.ru/i/E9_hkTBGE6xbJg" target="_blank" rel="noopener noreferrer">English</a>.pdf /
@@ -10,8 +10,6 @@ I'm a beginner manual tester from Belarus</a>.<br>
 <a href="https://hh.ru/resume/de663738ff0ed1a3f10039ed1f4a494e58484f">HeadHunter</a> /
 <a href="https://www.linkedin.com/in/emperrorart/">LinkedIn</a><br>
 <br>
-<b>Artem Gorbachevsky.</b><br>
-<b>DoB:</b> 05.03.1992.<br>
 <b>Phone:</b> +375297466650.<br>
 <b>Email:</b> <a href="mailto:emperrorartit@gmail.com">emperrorartit@gmail.com</a>.<br>
 <b>Telegram:</b> <a href="https://t.me/emperrorart" target="_blank" rel="noopener noreferrer">emperrorart</a>.<br>
