@@ -2,9 +2,13 @@
 
 ## About Me
 <!-- <em style="font-style: italic;"> -->
-<a href="https://hh.ru/resume/de663738ff0ed1a3f10039ed1f4a494e58484f" target="_blank" rel="noopener noreferrer">Link to my CV.</a> <br>
-<br>
 I'm a beginner manual tester from Belarus</a>.<br>
+<br>
+<b>Link to my CV:</b>
+<a href="https://disk.yandex.ru/i/E9_hkTBGE6xbJg" target="_blank" rel="noopener noreferrer">English</a>.pdf /
+<a href="https://disk.yandex.ru/i/E9_hkTBGE6xbJg">Russian</a>.pdf /
+<a href="https://hh.ru/resume/de663738ff0ed1a3f10039ed1f4a494e58484f">HeadHunter</a> /
+<a href="https://www.linkedin.com/in/emperrorart/">LinkedIn</a><br>
 <br>
 <b>Artem Gorbachevsky.</b><br>
 <b>DoB:</b> 05.03.1992.<br>
