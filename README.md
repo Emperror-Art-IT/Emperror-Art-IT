@@ -7,8 +7,8 @@ My name <b>Artem Gorbachevsky.</b>
 I'm a beginner <b>manual tester</b> from Belarus</a>.<br>
 <br>
 <b>Link to my CV:</b>
-<a href="https://disk.yandex.ru/i/E9_hkTBGE6xbJg" target="_blank" rel="noopener noreferrer">English</a>.pdf /
-<a href="https://disk.yandex.ru/i/E9_hkTBGE6xbJg">Russian</a>.pdf /
+<a href="https://disk.yandex.ru/i/sDSJjJWv0Yzt7w" target="_blank" rel="noopener noreferrer">English</a>.pdf /
+<a href="https://disk.yandex.ru/i/T7YzvQX0HCjGYw">Russian</a>.pdf /
 <a href="https://hh.ru/resume/de663738ff0ed1a3f10039ed1f4a494e58484f">HeadHunter</a> /
 <a href="https://www.linkedin.com/in/emperrorart/">LinkedIn</a><br>
 <br>
