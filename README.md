@@ -16,40 +16,26 @@ I'm a beginner <b>manual tester</b> from Belarus</a>.<br>
 <b>Email:</b> <a href="mailto:emperrorartit@gmail.com">emperrorartit@gmail.com</a>.<br>
 <b>Telegram:</b> <a href="https://t.me/emperrorart" target="_blank" rel="noopener noreferrer">@emperrorart</a> (preferred type of communication).<br>
 <br>
-<b>Education:</b><br>
-2009 - 2014 - Belarusian-Russian University, Faculty of Industrial and Civil Engineering.<br>
 
-<!-- Additional education -->
+<!-- Education, Additional education and Experience -->
 <details>
-  <summary><b>Additional education:</b>
+  <summary><b>Education, Additional Education and Experience:</b>
   </summary>
   <div style="margin-left: 30px;">
-  August 2024 - May 2025<br>
-  &nbsp;&nbsp;&nbsp;
-  <i>Self-study the basics of programming and the Python programming language using books and videos.</i><br>
-  June 2025 - Oktober 2025<br>
-  &nbsp;&nbsp;&nbsp;
-  <i>Study of manual testing based on the online course on the Stepik platform</i> (<a href="https://stepik.org/cert/2955360?lang=en" target="_blank" rel="noopener noreferrer">link to certificate.</a>).</em>
+  2025 - Study of manual testing based on the online course on the Stepik platform (<a href="https://stepik.org/cert/2955360?lang=en" target="_blank" rel="noopener noreferrer">link to certificate.</a>).<br>
+  2024 - Self-study the basics of programming and the Python programming language using books and videos.
+  <br>
+  2023 - 2025 - In a private company manufacturing wood products as a chief technologist.
+  <br>
+  2018 - 2023 - In a private company manufacturing wood products as a technologist.
+  <br>
+  2016 - 2028 - In a state-owned construction company as a construction and installation works foreman.
+  <br>
+  2014 - 2016 - In a state-owned construction company as a construction and installation works master.<br>
+  2009 - 2014 - Belarusian-Russian University, Faculty of Industrial and Civil Engineering.
+  </em>
 </details>
-
-<!-- Experience -->
-<details>
-  <summary><b>Experience:</b>
-  </summary>
-  <div style="margin-left: 30px;">
- 2014 - 2016<br>
- &nbsp;&nbsp;&nbsp;
- <i> In a construction company as a construction and installation works master.</i><br>
- 2016 - 2018<br>
- &nbsp;&nbsp;&nbsp;
- <i> In a construction company as a construction and installation works foreman.</i><br>
- 2018 - 2023<br>
- &nbsp;&nbsp;&nbsp;
- <i> In a private company manufacturing wood products as a technologist.</i><br>
- 2018 - 2025<br>
- &nbsp;&nbsp;&nbsp;
- <i> In a private company manufacturing wood products as a chief technologist.</i></em>
-</details>
+<br>
 
 ## Languages and Tools
 [![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Python&logoColor=ffffff)](https://www.python.org)
