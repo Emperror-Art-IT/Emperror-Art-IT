@@ -14,7 +14,7 @@ I'm a beginner <b>manual tester</b> from Belarus</a>.<br>
 <br>
 <b>Phone:</b> +375297466650.<br>
 <b>Email:</b> <a href="mailto:emperrorartit@gmail.com">emperrorartit@gmail.com</a>.<br>
-<b>Telegram:</b> <a href="https://t.me/emperrorart" target="_blank" rel="noopener noreferrer">@emperrorart</a> (preferred type of communication).<br>
+<b>Telegram:</b> <a href="https://t.me/emperrorart" target="_blank" rel="noopener noreferrer">@emperrorart</a> (preferred type of communication).
 <br>
 
 <!-- Education, Additional education and Experience -->
@@ -22,7 +22,8 @@ I'm a beginner <b>manual tester</b> from Belarus</a>.<br>
   <summary><b>Education, Additional Education and Experience:</b>
   </summary>
   <div style="margin-left: 30px;">
-  2025 - Study of manual testing based on the online course on the Stepik platform (<a href="https://stepik.org/cert/2955360?lang=en" target="_blank" rel="noopener noreferrer">link to certificate.</a>).<br>
+  2025 - Study of manual testing based on the online course on the Stepik platform. <a href="https://stepik.org/cert/2955360?lang=en" target="_blank" rel="noopener noreferrer">- link to certificate -</a>
+  <br>
   2024 - Self-study the basics of programming and the Python programming language using books and videos.
   <br>
   2023 - 2025 - In a private company manufacturing wood products as a chief technologist.
@@ -35,17 +36,28 @@ I'm a beginner <b>manual tester</b> from Belarus</a>.<br>
   2009 - 2014 - Belarusian-Russian University, Faculty of Industrial and Civil Engineering.
   </em>
 </details>
-<br>
 
+<!-- https://shields.io/ -->
+<!-- [![LABEL](https://img.shields.io/badge/<LABEL>-<MESSAGE-<COLOR>)](ссылка) -->
 ## Languages and Tools
 [![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Python&logoColor=ffffff)](https://www.python.org)
-[![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=ffffff)](https://github.com/Emperror-Art-IT)
-[![MySQL](https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=MySQL&logoColor=00618b)](https://www.mysql.com/)
+[![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=HTML&logoColor=ffffff)](https://html.spec.whatwg.org/multipage/)
+[![Jira](https://img.shields.io/badge/-Jira-000000?style=for-the-badge&logo=Jira&logoColor=1868da)](https://www.atlassian.com/software/jira)
 [![Postman](https://img.shields.io/badge/-Postman-000000?style=for-the-badge&logo=Postman&logoColor=fe6e21)](https://postman.com)
+[![SoapUI](https://img.shields.io/badge/-SoapUI-000000?style=for-the-badge&logo=SoapUI&logoColor=fcd81e)](https://soapui.ru/)
+[![Chrome_DevTools](https://img.shields.io/badge/-Chrome_DevTools-000000?style=for-the-badge&logo=Chrome_DevTools&logoColor=ffffff)](https://developer.chrome.com/docs/devtools?hl=ru)
+[![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=SQL&logoColor=ffffff)](https://www.iso.org/standard/63555.html)
+[![MySQL](https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=MySQL&logoColor=00618b)](https://www.mysql.com/)
+[![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git&logoColor=f44d27)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=ffffff)](https://github.com/Emperror-Art-IT)
+[![Android_Studio](https://img.shields.io/badge/-Android_Studio-000000?style=for-the-badge&logo=Android_Studio&logoColor=ffffff)](https://developer.android.com/studio?hl=ru)
+[![Genymotion](https://img.shields.io/badge/-Genymotion-000000?style=for-the-badge&logo=Genymotion&logoColor=ffffff)](https://www.genymotion.com/)
 
+<!-- 
 ## Follow Me
-[![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=fd0964)](https://www.instagram.com/emperrorart/)
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=0395dd)](https://t.me/emperrorart)
+[![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=fd0964)](https://www.instagram.com/emperrorart/) 
+-->
 
 <!-- Sample code with drop down menu -->
 <!--
