@@ -67,6 +67,11 @@ I'm a beginner <b>manual tester</b> from Belarus</a>.<br>
 [![Genymotion](https://img.shields.io/badge/-Genymotion-000000?style=for-the-badge&logo=Genymotion&logoColor=ffffff)](https://www.genymotion.com/)
 
 <!-- 
+## Pictures of certificates 
+-->
+<img src="https://github.com/Emperror-Art-IT/Emperror-Art-IT/blob/main/assets/Postman.png" alt="Course 'Software Testing: Postman for API Testing' by Konstantin Barzakovskiy on the Stepik platform" width="300" height="200">
+
+<!-- 
 ## Follow Me
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=0395dd)](https://t.me/emperrorart)
 [![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=fd0964)](https://www.instagram.com/emperrorart/) 
