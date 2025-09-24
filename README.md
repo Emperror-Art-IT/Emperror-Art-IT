@@ -22,9 +22,21 @@ I'm a beginner <b>manual tester</b> from Belarus</a>.<br>
   <summary><b>Education, Additional Education and Experience:</b>
   </summary>
   <div style="margin-left: 30px;">
-  2025 - Study of manual testing based on the online course on the Stepik platform. <a href="https://stepik.org/cert/2955360?lang=en" target="_blank" rel="noopener noreferrer">- link to certificate -</a>
+  2025 – Study of manual testing using books, videos, and free courses.
   <br>
-  2024 - Self-study the basics of programming and the Python programming language using books and videos.
+  "Software Testing" by Kulikov, "QA Bible" by Eremeev, "Tester from Scratch" by Rusov, "ISTQB CTFL Syllabus v4.0.1 RU", "A Practitioner's Guide to Software Test Design RU".
+  <br>
+  Course "Software Testing: Postman for API Testing" by Konstantin Barzakovskiy on the Stepik platform, certificate: <a href="https://stepik.org/cert/2966616?lang=en" target="_blank" rel="noopener noreferrer">- link to certificate -</a>
+  <br>
+  2025 – Study of manual testing based on an online course on the Stepik platform.
+  <br>
+  Courses "Software Testing from Scratch. Tests" and "Software Testing from Scratch. Theory + Practice. BASIC Level" by Artem Rusov, certificate: <a href="https://stepik.org/cert/2955360?lang=en" target="_blank" rel="noopener noreferrer">- link to certificate -</a>
+  <br>
+  2024 – Studying the basics of programming and the Python language through books, videos, and free courses.
+  <br>
+  "Grokking Algorithms" by Bhargava, "Programming in Python" by Vasiliev, video courses by Ilyin, Votyakov, and the itProger school.
+  <br>
+  2009–2014 – Belarusian-Russian University, Faculty of Industrial and Civil Engineering.
   <br>
   2023 - 2025 - In a private company manufacturing wood products as a chief technologist.
   <br>
