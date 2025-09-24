@@ -24,16 +24,16 @@ I'm a beginner <b>manual tester</b> from Belarus</a>.<br>
   <div style="margin-left: 30px;">
   2025 – Study of manual testing using books, videos, and free courses.
   <br>
-  <i>"Software Testing" by Kulikov, <br>"QA Bible" by Eremeev, <br>"Tester from Scratch" by Rusov, <br>"ISTQB CTFL Syllabus v4.0.1 RU", <br>"A Practitioner's Guide to Software Test Design RU".
-  <br>Course "Software Testing: Postman for API Testing" by Konstantin Barzakovskiy on the Stepik platform, certificate: <a href="https://stepik.org/cert/2966616?lang=en" target="_blank" rel="noopener noreferrer">- link to certificate -</a></i>
+  <i>&nbsp&nbsp&nbsp"Software Testing" by Kulikov, <br>&nbsp&nbsp&nbsp"QA Bible" by Eremeev, <br>&nbsp&nbsp&nbsp"Tester from Scratch" by Rusov, <br>&nbsp&nbsp&nbsp"ISTQB CTFL Syllabus v4.0.1 RU", <br>&nbsp&nbsp&nbsp"A Practitioner's Guide to Software Test Design RU".
+  <br>&nbsp&nbsp&nbspCourse "Software Testing: Postman for API Testing" by Konstantin Barzakovskiy on the Stepik platform, certificate: <a href="https://stepik.org/cert/2966616?lang=en" target="_blank" rel="noopener noreferrer">- link to certificate -</a></i>
   <br>
   2025 – Study of manual testing based on an online course on the Stepik platform.
   <br>
-  <i>Courses "Software Testing from Scratch. Tests" and "Software Testing from Scratch. Theory + Practice. BASIC Level" by Artem Rusov, certificate: <a href="https://stepik.org/cert/2955360?lang=en" target="_blank" rel="noopener noreferrer">- link to certificate -</a></i>
+  <i>&nbsp&nbsp&nbspCourses "Software Testing from Scratch. Tests" and "Software Testing from Scratch. Theory + Practice. BASIC Level" by Artem Rusov, certificate: <a href="https://stepik.org/cert/2955360?lang=en" target="_blank" rel="noopener noreferrer">- link to certificate -</a></i>
   <br>
   2024 – Studying the basics of programming and the Python language through books, videos, and free courses.
   <br>
-  <i>"Grokking Algorithms" by Bhargava, <br>"Programming in Python" by Vasiliev, <br>Video courses by Ilyin, Votyakov, and the itProger school.</i>
+  <i>&nbsp&nbsp&nbsp"Grokking Algorithms" by Bhargava, <br>&nbsp&nbsp&nbsp"Programming in Python" by Vasiliev, <br>&nbsp&nbsp&nbspVideo courses by Ilyin, Votyakov, and the itProger school.</i>
   <br>
   2009–2014 – Belarusian-Russian University, Faculty of Industrial and Civil Engineering.
   <br>
