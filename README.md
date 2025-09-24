@@ -69,8 +69,7 @@ I'm a beginner <b>manual tester</b> from Belarus</a>.<br>
 <!-- 
 ## Pictures of certificates 
 -->
-<img src="https://github.com/Emperror-Art-IT/Emperror-Art-IT/blob/main/assets/Postman.png" alt="Course 'Software Testing: Postman for API Testing' by Konstantin Barzakovskiy on the Stepik platform" width="400">
-<img src="https://github.com/Emperror-Art-IT/Emperror-Art-IT/blob/main/assets/Software_testing.png" alt="Course 'Software Testing from Scratch. Theory + Practice. BASIC Level' by Artem Rusov on the Stepik platform" width="400">
+<img src="https://github.com/Emperror-Art-IT/Emperror-Art-IT/blob/main/assets/Postman.png" alt="Course 'Software Testing: Postman for API Testing' by Konstantin Barzakovskiy on the Stepik platform" width="350">&nbsp<img src="https://github.com/Emperror-Art-IT/Emperror-Art-IT/blob/main/assets/Software_testing.png" alt="Course 'Software Testing from Scratch. Theory + Practice. BASIC Level' by Artem Rusov on the Stepik platform" width="350">
 
 <!-- 
 ## Follow Me
