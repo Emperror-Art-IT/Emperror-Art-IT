@@ -29,7 +29,9 @@ I'm a beginner <b>manual tester</b> from Belarus</a>.<br>
   <br>
   2025 – Study of manual testing based on an online course on the Stepik platform.
   <br>
-  <i>&nbsp&nbsp&nbspCourses "Software Testing from Scratch. Tests" and "Software Testing from Scratch. Theory + Practice. BASIC Level" by Artem Rusov, certificate: <a href="https://stepik.org/cert/2955360?lang=en" target="_blank" rel="noopener noreferrer">- link to certificate -</a></i>
+  <i>&nbsp&nbsp&nbspCourse "Software Testing from Scratch. Tests"</i>
+  <br>
+  <i>&nbsp&nbsp&nbspCourse "Software Testing from Scratch. Theory + Practice. BASIC Level" by Artem Rusov, certificate: <a href="https://stepik.org/cert/2955360?lang=en" target="_blank" rel="noopener noreferrer">- link to certificate -</a></i>
   <br>
   2024 – Studying the basics of programming and the Python language through books, videos, and free courses.
   <br>
