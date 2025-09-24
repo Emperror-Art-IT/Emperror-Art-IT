@@ -24,7 +24,7 @@ I'm a beginner <b>manual tester</b> from Belarus</a>.<br>
   <div style="margin-left: 30px;">
   2025 – Study of manual testing using books, videos, and free courses.
   <br>
-  <span style="font-size: 8px; color: silver;">"Software Testing" by Kulikov, <br>"QA Bible" by Eremeev, <br>"Tester from Scratch" by Rusov, <br>"ISTQB CTFL Syllabus v4.0.1 RU", <br>"A Practitioner's Guide to Software Test Design RU".
+  <span style="font-size: 100px; color: #D3D3D3;">"Software Testing" by Kulikov, <br>"QA Bible" by Eremeev, <br>"Tester from Scratch" by Rusov, <br>"ISTQB CTFL Syllabus v4.0.1 RU", <br>"A Practitioner's Guide to Software Test Design RU".
   <br>Course "Software Testing: Postman for API Testing" by Konstantin Barzakovskiy on the Stepik platform, certificate: <a href="https://stepik.org/cert/2966616?lang=en" target="_blank" rel="noopener noreferrer">- link to certificate -</a></span>
   <br>
   2025 – Study of manual testing based on an online course on the Stepik platform.
