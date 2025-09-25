@@ -1,4 +1,4 @@
-[![Header](https://github.com/Emperror-Art-IT/Emperror-Art-IT/blob/main/assets/7932aa292cb11f0a9cd6e2caa59c4a2_4-fotor-2025091610598.png)]
+![Header](https://github.com/Emperror-Art-IT/Emperror-Art-IT/blob/main/assets/7932aa292cb11f0a9cd6e2caa59c4a2_4-fotor-2025091610598.png)
 
 ## About Me
 <!-- <em style="font-style: italic;"> -->
