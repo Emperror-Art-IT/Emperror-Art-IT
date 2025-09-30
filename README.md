@@ -25,8 +25,8 @@ I'm a beginner <b>manual tester</b> from Belarus</a>.<br>
   2025 – Study of manual testing using books, videos, and courses.
   <br>
   <i>&nbsp&nbsp&nbsp"Software Testing" by Kulikov, <br>&nbsp&nbsp&nbsp"QA Bible" by Eremeev, <br>&nbsp&nbsp&nbsp"Tester from Scratch" by Rusov, <br>&nbsp&nbsp&nbsp"ISTQB CTFL Syllabus v4.0.1 RU", <br>&nbsp&nbsp&nbsp"A Practitioner's Guide to Software Test Design RU".
-  <br>&nbsp&nbsp&nbspCourse "Software Testing: Postman for API Testing" by Konstantin Barzakovskiy on the Stepik platform, certificate: <a href="https://stepik.org/cert/2966616?lang=en" target="_blank" rel="noopener noreferrer">- link to certificate -</a>
-  <br>&nbsp&nbsp&nbspCourse "Software Testing: Preparing for ISTQB Foundation" by Anton Kholin on the Stepik platform, certificate: <a href="https://stepik.org/cert/2972572?lang=en" target="_blank" rel="noopener noreferrer">- link to certificate -</a></i>
+  <br>&nbsp&nbsp&nbspCourse "Software Testing: <a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer">Postman</a> for API Testing" by Konstantin Barzakovskiy on the Stepik platform, certificate: <a href="https://stepik.org/cert/2966616?lang=en" target="_blank" rel="noopener noreferrer">- link to certificate -</a>
+  <br>&nbsp&nbsp&nbspCourse "Software Testing: Preparing for <a href="https://istqb.org/" target="_blank" rel="noopener noreferrer">ISTQB</a> Foundation" by Anton Kholin on the Stepik platform, certificate: <a href="https://stepik.org/cert/2972572?lang=en" target="_blank" rel="noopener noreferrer">- link to certificate -</a></i>
   <br>
   2025 – Study of manual testing based on an online course on the Stepik platform.
   <br>
