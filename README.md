@@ -4,16 +4,19 @@
 <!-- <em style="font-style: italic;"> -->
 My name <b>Artem Gorbachevsky.</b> 
 <br>
-I'm a beginner <b>manual tester</b> from Belarus</a>.<br>
+I'm a beginner <b>manual tester</b> from Belarus</a>.
+<br>
 <br>
 <b>Link to my CV:</b>
 <a href="https://disk.yandex.ru/i/sDSJjJWv0Yzt7w" target="_blank" rel="noopener noreferrer">English</a>.pdf /
 <a href="https://disk.yandex.ru/i/T7YzvQX0HCjGYw">Russian</a>.pdf /
 <a href="https://hh.ru/resume/de663738ff0ed1a3f10039ed1f4a494e58484f">HeadHunter</a> /
-<a href="https://www.linkedin.com/in/emperrorart/">LinkedIn</a><br>
+<a href="https://www.linkedin.com/in/emperrorart/">LinkedIn</a>
+<br>
 <br>
 <b>Phone:</b> +375297466650.<br>
-<b>Email:</b> <a href="mailto:emperrorartit@gmail.com">emperrorartit@gmail.com</a>.<br>
+<b>Email:</b> <a href="mailto:emperrorartit@gmail.com">emperrorartit@gmail.com</a>.
+<br>
 <b>Telegram:</b> <a href="https://t.me/emperrorart" target="_blank" rel="noopener noreferrer">@emperrorart</a> (preferred type of communication).
 <br>
 
@@ -24,9 +27,19 @@ I'm a beginner <b>manual tester</b> from Belarus</a>.<br>
   <div style="margin-left: 30px;">
   2025 – Study of manual testing using books, videos, and courses.
   <br>
-  <i>&nbsp&nbsp&nbsp"Software Testing" by Kulikov, <br>&nbsp&nbsp&nbsp"QA Bible" by Eremeev, <br>&nbsp&nbsp&nbsp"Tester from Scratch" by Rusov, <br>&nbsp&nbsp&nbsp"ISTQB CTFL Syllabus v4.0.1 RU", <br>&nbsp&nbsp&nbsp"A Practitioner's Guide to Software Test Design RU".
-  <br>&nbsp&nbsp&nbspCourse "Software Testing: <a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer">Postman</a> for API Testing" by Konstantin Barzakovskiy on the Stepik platform, certificate: <a href="https://stepik.org/cert/2966616?lang=en" target="_blank" rel="noopener noreferrer">- link to certificate -</a>
-  <br>&nbsp&nbsp&nbspCourse "Software Testing: Preparing for <a href="https://istqb.org/" target="_blank" rel="noopener noreferrer">ISTQB</a> Foundation" by Anton Kholin on the Stepik platform, certificate: <a href="https://stepik.org/cert/2972572?lang=en" target="_blank" rel="noopener noreferrer">- link to certificate -</a></i>
+  <i>&nbsp&nbsp&nbsp"Software Testing" by Kulikov, 
+  <br>
+  &nbsp&nbsp&nbsp"QA Bible" by Eremeev, 
+  <br>
+  &nbsp&nbsp&nbsp"Tester from Scratch" by Rusov, 
+  <br>
+  &nbsp&nbsp&nbsp"ISTQB CTFL Syllabus v4.0.1 RU", 
+  <br>
+  &nbsp&nbsp&nbsp"A Practitioner's Guide to Software Test Design RU".
+  <br>
+  &nbsp&nbsp&nbspCourse "Software Testing: <a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer">Postman</a> for API Testing" by Konstantin Barzakovskiy on the Stepik platform, certificate: <a href="https://stepik.org/cert/2966616?lang=en" target="_blank" rel="noopener noreferrer">- link to certificate -</a>
+  <br>
+  &nbsp&nbsp&nbspCourse "Software Testing: Preparing for <a href="https://istqb.org/" target="_blank" rel="noopener noreferrer">ISTQB</a> Foundation" by Anton Kholin on the Stepik platform, certificate: <a href="https://stepik.org/cert/2972572?lang=en" target="_blank" rel="noopener noreferrer">- link to certificate -</a></i>
   <br>
   2025 – Study of manual testing based on an online course on the Stepik platform.
   <br>
@@ -36,7 +49,11 @@ I'm a beginner <b>manual tester</b> from Belarus</a>.<br>
   <br>
   2024 – Studying the basics of programming and the Python language through books, videos, and courses.
   <br>
-  <i>&nbsp&nbsp&nbsp"Grokking Algorithms" by Bhargava, <br>&nbsp&nbsp&nbsp"Programming in Python" by Vasiliev, <br>&nbsp&nbsp&nbspVideo courses (Alexander Ilyin, Vot Votyakov, Ivan Viktorovich and the itProger school).</i>
+  <i>&nbsp&nbsp&nbsp"Grokking Algorithms" by Bhargava, 
+  <br>
+  &nbsp&nbsp&nbsp"Programming in Python" by Vasiliev, 
+  <br>
+  &nbsp&nbsp&nbspVideo courses (Alexander Ilyin, Vot Votyakov, Ivan Viktorovich and the itProger school).</i>
   <br>
   2009–2014 – Belarusian-Russian University, Faculty of Industrial and Civil Engineering.
   <br>
@@ -46,7 +63,8 @@ I'm a beginner <b>manual tester</b> from Belarus</a>.<br>
   <br>
   2016 - 2028 - In a state-owned construction company as a construction and installation works foreman.
   <br>
-  2014 - 2016 - In a state-owned construction company as a construction and installation works master.<br>
+  2014 - 2016 - In a state-owned construction company as a construction and installation works master.
+  <br>
   2009 - 2014 - Belarusian-Russian University, Faculty of Industrial and Civil Engineering.
   </em>
 </details>
