@@ -1,4 +1,4 @@
-[![Header](https://github.com/Emperror-Art-IT/Emperror-Art-IT/blob/main/assets/7932aa292cb11f0a9cd6e2caa59c4a2_4-fotor-2025091610598.png)](https://t.me/emperrorart)
+[![Header](https://github.com/Emperror-Art-IT/Emperror-Art-IT/blob/main/assets/Header_picture.png)](https://t.me/emperrorart)
 
 ## About Me
 <!-- <em style="font-style: italic;"> -->
@@ -88,7 +88,10 @@ I'm a beginner <b>manual tester</b> from Belarus</a>.
 <!-- 
 ## Pictures of certificates 
 -->
-<img src="https://github.com/Emperror-Art-IT/Emperror-Art-IT/blob/main/assets/Postman.png" alt="Course 'Software Testing: Postman for API Testing' by Konstantin Barzakovskiy on the Stepik platform" width="400"><img src="https://github.com/Emperror-Art-IT/Emperror-Art-IT/blob/main/assets/Software_testing.png" alt="Course 'Software Testing from Scratch. Theory + Practice. BASIC Level' by Artem Rusov on the Stepik platform" width="400">
+<img src="https://github.com/Emperror-Art-IT/Emperror-Art-IT/blob/main/assets/Certificate_1.png" alt="Course 'Software Testing from Scratch. Theory + Practice. BASIC Level' by Artem Rusov on the Stepik platform" width="400">
+<img src="https://github.com/Emperror-Art-IT/Emperror-Art-IT/blob/main/assets/Certificate_2.png" alt="Course 'Software Testing: Postman for API Testing' by Konstantin Barzakovskiy on the Stepik platform" width="400">
+<img src="https://github.com/Emperror-Art-IT/Emperror-Art-IT/blob/main/assets/Certificate_3.png" alt='Course "Software Testing: Preparing for ISTQB Foundation" by Anton Kholin on the Stepik platform' width="400">
+
 
 <!-- 
 ## Follow Me
