@@ -82,13 +82,14 @@ I'm a beginner <b>manual tester</b> from Belarus</a>.
 [![MySQL](https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=MySQL&logoColor=00618b)](https://www.mysql.com/)
 [![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git&logoColor=f44d27)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=ffffff)](https://github.com/Emperror-Art-IT)
+[![Agile](https://img.shields.io/badge/-Agile-000000?style=for-the-badge&logo=Agile&logoColor=ffffff)](https://en.wikipedia.org/wiki/Agile_software_development)
 [![Android_Studio](https://img.shields.io/badge/-Android_Studio-000000?style=for-the-badge&logo=Android_Studio&logoColor=ffffff)](https://developer.android.com/studio?hl=ru)
 [![Genymotion](https://img.shields.io/badge/-Genymotion-000000?style=for-the-badge&logo=Genymotion&logoColor=ffffff)](https://www.genymotion.com/)
 
 <!-- 
 ## Pictures of certificates 
 -->
-<img src="https://github.com/Emperror-Art-IT/Emperror-Art-IT/blob/main/assets/Certificate_1.png" alt="Course 'Software Testing from Scratch. Theory + Practice. BASIC Level' by Artem Rusov on the Stepik platform" width="400"><img src="https://github.com/Emperror-Art-IT/Emperror-Art-IT/blob/main/assets/Certificate_2.png" alt="Course 'Software Testing: Postman for API Testing' by Konstantin Barzakovskiy on the Stepik platform" width="400"><img src="https://github.com/Emperror-Art-IT/Emperror-Art-IT/blob/main/assets/Certificate_3.png" alt='Course "Software Testing: Preparing for ISTQB Foundation" by Anton Kholin on the Stepik platform' width="400">
+<img src="https://github.com/Emperror-Art-IT/Emperror-Art-IT/blob/main/assets/Certificate_1.png" alt="Course 'Software Testing from Scratch. Theory + Practice. BASIC Level' by Artem Rusov on the Stepik platform" width="400">&nbsp&nbsp&nbsp<img src="https://github.com/Emperror-Art-IT/Emperror-Art-IT/blob/main/assets/Certificate_3.png" alt='Course "Software Testing: Preparing for ISTQB Foundation" by Anton Kholin on the Stepik platform' width="400">&nbsp&nbsp&nbsp<img src="https://github.com/Emperror-Art-IT/Emperror-Art-IT/blob/main/assets/Certificate_2.png" alt="Course 'Software Testing: Postman for API Testing' by Konstantin Barzakovskiy on the Stepik platform" width="400">&nbsp&nbsp&nbsp
 
 
 <!-- 
