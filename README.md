@@ -8,8 +8,8 @@ I'm a beginner <b>manual tester</b> from Belarus</a>.
 <br>
 <br>
 <b>Link to my CV:</b>
-<a href="https://disk.yandex.ru/i/sDSJjJWv0Yzt7w" target="_blank" rel="noopener noreferrer">English</a>.pdf /
-<a href="https://disk.yandex.ru/i/T7YzvQX0HCjGYw">Russian</a>.pdf /
+<a href="https://disk.yandex.ru/i/JTnVhzIQk-mqRw" target="_blank" rel="noopener noreferrer">English</a>.pdf /
+<a href="https://disk.yandex.ru/i/p0v5R2q0PD03mQ">Russian</a>.pdf /
 <a href="https://hh.ru/resume/de663738ff0ed1a3f10039ed1f4a494e58484f">HeadHunter</a> /
 <a href="https://www.linkedin.com/in/emperrorart/">LinkedIn</a>
 <br>
