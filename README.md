@@ -74,6 +74,7 @@ I'm a beginner <b>manual tester</b> from Belarus</a>.
 ## Languages and Tools
 [![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Python&logoColor=ffffff)](https://www.python.org)
 [![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=HTML&logoColor=ffffff)](https://html.spec.whatwg.org/multipage/)
+[![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=CSS&logoColor=ffffff)](https://ru.wikipedia.org/wiki/CSS)
 [![Jira](https://img.shields.io/badge/-Jira-000000?style=for-the-badge&logo=Jira&logoColor=1868da)](https://www.atlassian.com/software/jira)
 [![Postman](https://img.shields.io/badge/-Postman-000000?style=for-the-badge&logo=Postman&logoColor=fe6e21)](https://postman.com)
 [![SoapUI](https://img.shields.io/badge/-SoapUI-000000?style=for-the-badge&logo=SoapUI&logoColor=fcd81e)](https://soapui.ru/)
