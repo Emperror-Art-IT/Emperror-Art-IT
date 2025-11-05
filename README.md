@@ -9,13 +9,13 @@ I'm a beginner <b>manual tester</b> from Belarus</a>.
 <br>
 <b>Link to my CV:</b>
 <a href="https://disk.yandex.ru/i/JTnVhzIQk-mqRw" target="_blank" rel="noopener noreferrer">English</a>.pdf /
-<a href="https://disk.yandex.ru/i/p0v5R2q0PD03mQ">Russian</a>.pdf /
-<a href="https://hh.ru/resume/de663738ff0ed1a3f10039ed1f4a494e58484f">HeadHunter</a> /
-<a href="https://www.linkedin.com/in/emperrorart/">LinkedIn</a>
+<a href="https://disk.yandex.ru/i/p0v5R2q0PD03mQ" target="_blank" rel="noopener noreferrer"> Russian</a>.pdf /
+<a href="https://hh.ru/resume/de663738ff0ed1a3f10039ed1f4a494e58484f" target="_blank" rel="noopener noreferrer">HeadHunter</a> /
+<a href="https://www.linkedin.com/in/emperrorart/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 <br>
 <br>
 <b>Phone:</b> +375297466650.<br>
-<b>Email:</b> <a href="mailto:emperrorartit@gmail.com">emperrorartit@gmail.com</a>.
+<b>Email:</b> <a href="mailto:emperrorartit@gmail.com" target="_blank" rel="noopener noreferrer">emperrorartit@gmail.com</a>.
 <br>
 <b>Telegram:</b> <a href="https://t.me/emperrorart" target="_blank" rel="noopener noreferrer">@emperrorart</a> (preferred type of communication).
 <br>
