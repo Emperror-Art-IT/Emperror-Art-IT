@@ -6,6 +6,8 @@ My name <b>Artem Gorbachevsky.</b>
 <br>
 I'm a beginner <b>manual tester</b> from Belarus</a>.
 <br>
+In the future, I would like to <b>automate testing</b>.
+<br>
 <br>
 <b>Link to my CV:</b>
 <a href="https://disk.yandex.ru/i/JTnVhzIQk-mqRw" target="_blank" rel="noopener noreferrer">English</a>.pdf /
