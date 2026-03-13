@@ -85,6 +85,7 @@ I work for a private wood products company as a <b>chief technologist</b>.
 💼 Work
 <br>
 <a href="https://github.com/Emperror-Art-IT/Optimal_cutting" target="_blank" rel="noopener noreferrer">Optimal_cutting</a>
+ / 
 <a href="https://github.com/Emperror-Art-IT/Votyakov_Python" target="_blank" rel="noopener noreferrer">Cut1_from_13032026</a>
 <br>
 </em>
