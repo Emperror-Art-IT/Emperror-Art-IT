@@ -78,10 +78,12 @@ In the future, I would like to <b>automate testing</b>.
   <div style="margin-left: 30px;">
 <br>
 📚 Учеба
-[Self-education](https://github.com/Emperror-Art-IT/Self-education) | Training materials for testers |
+<br>
+[![Self-education | Training materials for testers ]](https://github.com/Emperror-Art-IT/Self-education)
 [Votyakov_Python](https://github.com/Emperror-Art-IT/Votyakov_Python) | Programming course |
 <br>
 💼 Работа
+<br>
 [Optimal_cutting](https://github.com/Emperror-Art-IT/Optimal_cutting) | Cutting optimization |
 [Cut1_from_13032026](https://github.com/Emperror-Art-IT/Cut1_from_13032026) | Скрипт раскроя |
 </em>
