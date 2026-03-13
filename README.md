@@ -25,7 +25,7 @@ I work for a private wood products company as a <b>chief technologist</b>.
 <details>
   <summary><b>Work Experience, Education and Additional Education:</b>
   </summary>
-  <div style="margin-left: 30px;">
+  <div style="margin-left: 30px; font-size: 30px;">
   <br>
   💼 Work Experience
   <br>
@@ -49,7 +49,7 @@ I work for a private wood products company as a <b>chief technologist</b>.
   <br>
   2025 – Study of manual testing using books, videos, and courses.
   <br>
-  &nbsp&nbsp&nbsp<span style="font-size: 16px;">"Software Testing" by Kulikov,</span> 
+  &nbsp&nbsp&nbsp<span style="font-size: 20px;">"Software Testing" by Kulikov,</span>
   <br>
   &nbsp&nbsp&nbsp"QA Bible" by Eremeev, 
   <br>
