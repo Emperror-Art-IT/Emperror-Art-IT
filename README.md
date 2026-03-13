@@ -71,6 +71,23 @@ In the future, I would like to <b>automate testing</b>.
   </em>
 </details>
 
+<!-- Мои проекты -->
+<details>
+<summary><b>My projects:</b>
+  </summary>
+  <div style="margin-left: 30px;">
+<br>
+📚 Учеба
+[Self-education](https://github.com/Emperror-Art-IT/Self-education) | Training materials for testers |
+[Votyakov_Python](https://github.com/Emperror-Art-IT/Votyakov_Python) | Programming course |
+<br>
+💼 Работа
+[Optimal_cutting](https://github.com/Emperror-Art-IT/Optimal_cutting) | Cutting optimization |
+[Cut1_from_13032026](https://github.com/Emperror-Art-IT/Cut1_from_13032026) | Скрипт раскроя |
+</em>
+</details>
+
+
 <!-- https://shields.io/ -->
 <!-- [![LABEL](https://img.shields.io/badge/<LABEL>-<MESSAGE-<COLOR>)](ссылка) -->
 ## Languages and Tools
