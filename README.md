@@ -21,11 +21,29 @@ I work for a private wood products company as a <b>chief technologist</b>.
 <b>Telegram:</b> <a href="https://t.me/emperrorart" target="_blank" rel="noopener noreferrer">@emperrorart</a> (preferred type of communication).
 <br>
 
-<!-- Education, Additional education and Experience -->
+<!-- Work Experience, Education and Additional Education -->
 <details>
-  <summary><b>Education, Additional Education and Experience:</b>
+  <summary><b>Work Experience, Education and Additional Education:</b>
   </summary>
   <div style="margin-left: 30px;">
+  <br>
+  💼 Work Experience
+  <br>
+  2023 - 2026 - In a private company manufacturing wood products as a chief technologist.
+  <br>
+  2018 - 2023 - In a private company manufacturing wood products as a technologist.
+  <br>
+  2016 - 2028 - In a state-owned construction company as a construction and installation works foreman.
+  <br>
+  2014 - 2016 - In a state-owned construction company as a construction and installation works master.
+  <br>
+  2009 - 2014 - Belarusian-Russian University, Faculty of Industrial and Civil Engineering.
+  <br>
+  📚 Education
+  <br>
+  2009–2014 – Belarusian-Russian University, Faculty of Industrial and Civil Engineering.
+  <br>
+  📖 Additional education
   <br>
   2025 – Study of manual testing using books, videos, and courses.
   <br>
@@ -56,18 +74,6 @@ I work for a private wood products company as a <b>chief technologist</b>.
   &nbsp&nbsp&nbsp"Programming in Python" by Vasiliev, 
   <br>
   &nbsp&nbsp&nbspVideo courses (Alexander Ilyin, Vot Votyakov, Ivan Viktorovich and the itProger school).</i>
-  <br>
-  2009–2014 – Belarusian-Russian University, Faculty of Industrial and Civil Engineering.
-  <br>
-  2023 - 2026 - In a private company manufacturing wood products as a chief technologist.
-  <br>
-  2018 - 2023 - In a private company manufacturing wood products as a technologist.
-  <br>
-  2016 - 2028 - In a state-owned construction company as a construction and installation works foreman.
-  <br>
-  2014 - 2016 - In a state-owned construction company as a construction and installation works master.
-  <br>
-  2009 - 2014 - Belarusian-Russian University, Faculty of Industrial and Civil Engineering.
   </em>
 </details>
 
