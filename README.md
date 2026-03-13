@@ -79,8 +79,9 @@ In the future, I would like to <b>automate testing</b>.
 <br>
 📚 Учеба
 <br>
-[![Self-education | Training materials for testers ]](https://github.com/Emperror-Art-IT/Self-education)
-[Votyakov_Python](https://github.com/Emperror-Art-IT/Votyakov_Python) | Programming course |
+<a href="https://github.com/Emperror-Art-IT/Self-education" target="_blank" rel="noopener noreferrer">Self-education | Training materials for testers</a>
+<br>
+<a href="https://github.com/Emperror-Art-IT/Votyakov_Python" target="_blank" rel="noopener noreferrer">Votyakov_Python | Programming course</a>
 <br>
 💼 Работа
 <br>
