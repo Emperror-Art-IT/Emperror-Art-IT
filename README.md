@@ -25,9 +25,9 @@ I work for a private wood products company as a <b>chief technologist</b>.
 <details>
   <summary><b>Work Experience, Education and Additional Education:</b>
   </summary>
-  <div>
+  <div style="margin-left: 30px;">
   <br>
-  ### 💼 Work Experience
+  💼 Work Experience
   <br>
   2023 - 2026 - In a private company manufacturing wood products as a chief technologist.
   <br>
@@ -40,69 +40,65 @@ I work for a private wood products company as a <b>chief technologist</b>.
   2009 - 2014 - Belarusian-Russian University, Faculty of Industrial and Civil Engineering.
   <br>
   <br>
-  ### 📚 Education
+  📚 Education
   <br>
   2009–2014 – Belarusian-Russian University, Faculty of Industrial and Civil Engineering.
   <br>
   <br>
-  ### 📖 Additional education
+  📖 Additional education
   <br>
-  #### 2025 – Study of manual testing using books, videos, and courses.
+  2025 – Study of manual testing using books, videos, and courses.
   <br>
-  <small>&nbsp&nbsp&nbsp"Software Testing" by Kulikov,</small>
+  <i>&nbsp&nbsp&nbsp"Software Testing" by Kulikov, 
   <br>
-  <small>&nbsp&nbsp&nbsp"QA Bible" by Eremeev,</small>
+  &nbsp&nbsp&nbsp"QA Bible" by Eremeev, 
   <br>
-  <small>&nbsp&nbsp&nbsp"Tester from Scratch" by Rusov,</small>
+  &nbsp&nbsp&nbsp"Tester from Scratch" by Rusov, 
   <br>
-  <small>&nbsp&nbsp&nbsp"ISTQB CTFL Syllabus v4.0.1 RU",</small>
+  &nbsp&nbsp&nbsp"ISTQB CTFL Syllabus v4.0.1 RU", 
   <br>
-  <small>&nbsp&nbsp&nbsp"A Practitioner's Guide to Software Test Design RU".</small>
+  &nbsp&nbsp&nbsp"A Practitioner's Guide to Software Test Design RU".
   <br>
-  <small>&nbsp&nbsp&nbspCourse "Software Testing: <a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer">Postman</a> for API Testing" by Konstantin Barzakovskiy on the Stepik platform, certificate: <a href="https://stepik.org/cert/2966616?lang=en" target="_blank" rel="noopener noreferrer">- link to certificate -</a></small>
+  &nbsp&nbsp&nbspCourse "Software Testing: <a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer">Postman</a> for API Testing" by Konstantin Barzakovskiy on the Stepik platform, certificate: <a href="https://stepik.org/cert/2966616?lang=en" target="_blank" rel="noopener noreferrer">- link to certificate -</a>
   <br>
-  <small>&nbsp&nbsp&nbspCourse "Software Testing: Preparing for <a href="https://istqb.org/" target="_blank" rel="noopener noreferrer">ISTQB</a> Foundation" by Anton Kholin on the Stepik platform, certificate: <a href="https://stepik.org/cert/2972572?lang=en" target="_blank" rel="noopener noreferrer">- link to certificate -</a></small>
+  &nbsp&nbsp&nbspCourse "Software Testing: Preparing for <a href="https://istqb.org/" target="_blank" rel="noopener noreferrer">ISTQB</a> Foundation" by Anton Kholin on the Stepik platform, certificate: <a href="https://stepik.org/cert/2972572?lang=en" target="_blank" rel="noopener noreferrer">- link to certificate -</a></i>
   <br>
+  2025 – Study of manual testing based on an online course on the Stepik platform.
   <br>
-  #### 2025 – Study of manual testing based on an online course on the Stepik platform.
+  <i>&nbsp&nbsp&nbspCourse "Software Testing from Scratch. Tests"</i>
   <br>
-  <small>&nbsp&nbsp&nbspCourse "Software Testing from Scratch. Tests"</small>
+  <i>&nbsp&nbsp&nbspCourse "Software Testing from Scratch. Theory + Practice. BASIC Level" by Artem Rusov, certificate: <a href="https://stepik.org/cert/2955360?lang=en" target="_blank" rel="noopener noreferrer">- link to certificate -</a></i>
   <br>
-  <small>&nbsp&nbsp&nbspCourse "Software Testing from Scratch. Theory + Practice. BASIC Level" by Artem Rusov, certificate: <a href="https://stepik.org/cert/2955360?lang=en" target="_blank" rel="noopener noreferrer">- link to certificate -</a></small>
+  2024 – Studying the basics of programming and the Python language through books, videos, and courses.
   <br>
+  <i>&nbsp&nbsp&nbsp"Grokking Algorithms" by Bhargava, 
   <br>
-  #### 2024 – Studying the basics of programming and the Python language through books, videos, and courses.
+  &nbsp&nbsp&nbsp"Programming in Python" by Vasiliev, 
   <br>
-  <small>&nbsp&nbsp&nbsp"Grokking Algorithms" by Bhargava,</small>
-  <br>
-  <small>&nbsp&nbsp&nbsp"Programming in Python" by Vasiliev,</small>
-  <br>
-  <small>&nbsp&nbsp&nbspVideo courses (Alexander Ilyin, Vot Votyakov, Ivan Viktorovich and the itProger school).</small>
-  <br>
-  </div>
+  &nbsp&nbsp&nbspVideo courses (Alexander Ilyin, Vot Votyakov, Ivan Viktorovich and the itProger school).</i>
+  </em>
 </details>
-<br>
 
 <!-- My projects -->
 <details>
 <summary><b>My projects:</b>
   </summary>
-  <div>
-  <br>
-  ### 📚 Study
-  <br>
-  <a href="https://github.com/Emperror-Art-IT/Votyakov_Python" target="_blank" rel="noopener noreferrer">Votyakov_Python</a>
-  <br>
-  <br>
-  ### 💼 Work
-  <br>
-  <a href="https://github.com/Emperror-Art-IT/Optimal_cutting" target="_blank" rel="noopener noreferrer">Optimal_cutting</a>
-  / 
-  <a href="https://github.com/Emperror-Art-IT/Cut1_from_13032026" target="_blank" rel="noopener noreferrer">Cut1_from_13032026</a>
-  <br>
-  </div>
-</details>
+  <div style="margin-left: 30px;">
 <br>
+📚 Study
+<br>
+<a href="https://github.com/Emperror-Art-IT/Votyakov_Python" target="_blank" rel="noopener noreferrer">Votyakov_Python</a>
+<br>
+<br>
+💼 Work
+<br>
+<a href="https://github.com/Emperror-Art-IT/Optimal_cutting" target="_blank" rel="noopener noreferrer">Optimal_cutting</a>
+ / 
+<a href="https://github.com/Emperror-Art-IT/Votyakov_Python" target="_blank" rel="noopener noreferrer">Cut1_from_13032026</a>
+<br>
+</em>
+</details>
+
 
 <!-- https://shields.io/ -->
 <!-- [![LABEL](https://img.shields.io/badge/<LABEL>-<MESSAGE-<COLOR>)](ссылка) -->
@@ -121,15 +117,12 @@ I work for a private wood products company as a <b>chief technologist</b>.
 [![Agile](https://img.shields.io/badge/-Agile-000000?style=for-the-badge&logo=Agile&logoColor=ffffff)](https://en.wikipedia.org/wiki/Agile_software_development)
 [![Android_Studio](https://img.shields.io/badge/-Android_Studio-000000?style=for-the-badge&logo=Android_Studio&logoColor=ffffff)](https://developer.android.com/studio?hl=ru)
 [![Genymotion](https://img.shields.io/badge/-Genymotion-000000?style=for-the-badge&logo=Genymotion&logoColor=ffffff)](https://www.genymotion.com/)
-<br>
-<br>
 
 <!-- 
 ## Pictures of certificates 
 -->
-<img src="https://github.com/Emperror-Art-IT/Emperror-Art-IT/blob/main/assets/Certificate_1.png" alt="Course 'Software Testing from Scratch. Theory + Practice. BASIC Level' by Artem Rusov on the Stepik platform" width="400">&nbsp;<img src="https://github.com/Emperror-Art-IT/Emperror-Art-IT/blob/main/assets/Certificate_3.png" alt='Course "Software Testing: Preparing for ISTQB Foundation" by Anton Kholin on the Stepik platform' width="400">&nbsp;&nbsp;<img src="https://github.com/Emperror-Art-IT/Emperror-Art-IT/blob/main/assets/Certificate_2.png" alt="Course 'Software Testing: Postman for API Testing' by Konstantin Barzakovskiy on the Stepik platform" width="400">&nbsp;<img src="https://github.com/Emperror-Art-IT/Emperror-Art-IT/blob/main/assets/Certificate_4.png" alt="Course 'Interactive SQL simulator' from Galina Ozerova on the Stepik platform" width="400">&nbsp;&nbsp;<img src="https://github.com/Emperror-Art-IT/Emperror-Art-IT/blob/main/assets/Certificate_5.png" alt="Course 'Basics of Web layout with HTML and CSS' by Nikolay Kolupaev on the Stepik platform" width="400">
-<br>
-<br>
+<img src="https://github.com/Emperror-Art-IT/Emperror-Art-IT/blob/main/assets/Certificate_1.png" alt="Course 'Software Testing from Scratch. Theory + Practice. BASIC Level' by Artem Rusov on the Stepik platform" width="400">&nbsp;<img src="https://github.com/Emperror-Art-IT/Emperror-Art-IT/blob/main/assets/Certificate_3.png" alt='Course "Software Testing: Preparing for ISTQB Foundation" by Anton Kholin on the Stepik platform' width="400">&nbsp;&nbsp;<img src="https://github.com/Emperror-Art-IT/Emperror-Art-IT/blob/main/assets/Certificate_2.png" alt="Course 'Software Testing: Postman for API Testing' by Konstantin Barzakovskiy on the Stepik platform" width="400">&nbsp;<img src="https://github.com/Emperror-Art-IT/Emperror-Art-IT/blob/main/assets/Certificate_4.png" alt="Course 'Interactive SQL simulator' from Galina Ozerova on the Stepik platform" width="400">&nbsp;&nbsp;<img src="https://github.com/Emperror-Art-IT/Emperror-Art-IT/blob/main/assets/Certificate_5.png" alt="Course 'Basics of Web layout with HTML and CSS' by Nikolay Kolupaev on the Stepik platform" width="400">&nbsp;
+
 
 <!-- 
 ## Follow Me
@@ -153,3 +146,5 @@ I work for a private wood products company as a <b>chief technologist</b>.
   <img src="https://readme-typing-svg.demolab.com/?lines=There will be something written here.;Some day.;But I don't know when yet.&font=Fira%20Code&left=true&width=500&height=30&duration=1000&pause=200">
 </p>
 -->
+
+  
