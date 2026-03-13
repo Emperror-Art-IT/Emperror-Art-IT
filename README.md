@@ -25,58 +25,54 @@ I work for a private wood products company as a <b>chief technologist</b>.
 <details>
   <summary><b>Work Experience, Education and Additional Education:</b>
   </summary>
-  <div style="margin-left: 30px; font-size: 30px;">
+  <div style="margin-left: 30px;">
   <br>
-  💼 Work Experience
+  <span style="font-size: 20px;">💼 Work Experience</span>
   <br>
-  2023 - 2026 - In a private company manufacturing wood products as a chief technologist.
+  <span style="font-size: 16px;">2023 - 2026 - In a private company manufacturing wood products as a chief technologist.</span>
   <br>
-  2018 - 2023 - In a private company manufacturing wood products as a technologist.
+  <span style="font-size: 16px;">2018 - 2023 - In a private company manufacturing wood products as a technologist.</span>
   <br>
-  2016 - 2028 - In a state-owned construction company as a construction and installation works foreman.
+  <span style="font-size: 16px;">2016 - 2028 - In a state-owned construction company as a construction and installation works foreman.</span>
   <br>
-  2014 - 2016 - In a state-owned construction company as a construction and installation works master.
+  <span style="font-size: 16px;">2014 - 2016 - In a state-owned construction company as a construction and installation works master.</span>
   <br>
-  2009 - 2014 - Belarusian-Russian University, Faculty of Industrial and Civil Engineering.
-  <br>
-  <br>
-  📚 Education
-  <br>
-  2009–2014 – Belarusian-Russian University, Faculty of Industrial and Civil Engineering.
+  <span style="font-size: 16px;">2009 - 2014 - Belarusian-Russian University, Faculty of Industrial and Civil Engineering.</span>
   <br>
   <br>
-  📖 Additional education
+  <span style="font-size: 20px;">📚 Education</span>
   <br>
-  2025 – Study of manual testing using books, videos, and courses.
+  <span style="font-size: 16px;">2009–2014 – Belarusian-Russian University, Faculty of Industrial and Civil Engineering.</span>
   <br>
-  &nbsp&nbsp&nbsp<span style="font-size: 20px;">"Software Testing" by Kulikov,</span>
   <br>
-  &nbsp&nbsp&nbsp"QA Bible" by Eremeev, 
+  <span style="font-size: 20px;">📖 Additional education</span>
   <br>
-  &nbsp&nbsp&nbsp"Tester from Scratch" by Rusov, 
+  <span style="font-size: 16px;">2025 – Study of manual testing using books, videos, and courses.</span>
   <br>
-  &nbsp&nbsp&nbsp"ISTQB CTFL Syllabus v4.0.1 RU", 
+  <div style="margin-left: 30px; font-size: 14px;">
+    <i>
+    "Software Testing" by Kulikov,<br>
+    "QA Bible" by Eremeev,<br>
+    "Tester from Scratch" by Rusov,<br>
+    "ISTQB CTFL Syllabus v4.0.1 RU",<br>
+    "A Practitioner's Guide to Software Test Design RU".<br>
+    Course "Software Testing: <a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer">Postman</a> for API Testing" by Konstantin Barzakovskiy on the Stepik platform, certificate: <a href="https://stepik.org/cert/2966616?lang=en" target="_blank" rel="noopener noreferrer">- link to certificate -</a><br>
+    Course "Software Testing: Preparing for <a href="https://istqb.org/" target="_blank" rel="noopener noreferrer">ISTQB</a> Foundation" by Anton Kholin on the Stepik platform, certificate: <a href="https://stepik.org/cert/2972572?lang=en" target="_blank" rel="noopener noreferrer">- link to certificate -</a>
+    </i>
+  </div>
+  <span style="font-size: 16px;">2025 – Study of manual testing based on an online course on the Stepik platform.</span>
   <br>
-  &nbsp&nbsp&nbsp"A Practitioner's Guide to Software Test Design RU".
+  <div style="margin-left: 30px; font-size: 14px;">
+    <i>Course "Software Testing from Scratch. Tests"<br>
+    Course "Software Testing from Scratch. Theory + Practice. BASIC Level" by Artem Rusov, certificate: <a href="https://stepik.org/cert/2955360?lang=en" target="_blank" rel="noopener noreferrer">- link to certificate -</a></i>
+  </div>
+  <span style="font-size: 16px;">2024 – Studying the basics of programming and the Python language through books, videos, and courses.</span>
   <br>
-  &nbsp&nbsp&nbspCourse "Software Testing: <a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer">Postman</a> for API Testing" by Konstantin Barzakovskiy on the Stepik platform, certificate: <a href="https://stepik.org/cert/2966616?lang=en" target="_blank" rel="noopener noreferrer">- link to certificate -</a>
-  <br>
-  &nbsp&nbsp&nbspCourse "Software Testing: Preparing for <a href="https://istqb.org/" target="_blank" rel="noopener noreferrer">ISTQB</a> Foundation" by Anton Kholin on the Stepik platform, certificate: <a href="https://stepik.org/cert/2972572?lang=en" target="_blank" rel="noopener noreferrer">- link to certificate -</a></i>
-  <br>
-  2025 – Study of manual testing based on an online course on the Stepik platform.
-  <br>
-  <i>&nbsp&nbsp&nbspCourse "Software Testing from Scratch. Tests"</i>
-  <br>
-  <i>&nbsp&nbsp&nbspCourse "Software Testing from Scratch. Theory + Practice. BASIC Level" by Artem Rusov, certificate: <a href="https://stepik.org/cert/2955360?lang=en" target="_blank" rel="noopener noreferrer">- link to certificate -</a></i>
-  <br>
-  2024 – Studying the basics of programming and the Python language through books, videos, and courses.
-  <br>
-  <i>&nbsp&nbsp&nbsp"Grokking Algorithms" by Bhargava, 
-  <br>
-  &nbsp&nbsp&nbsp"Programming in Python" by Vasiliev, 
-  <br>
-  &nbsp&nbsp&nbspVideo courses (Alexander Ilyin, Vot Votyakov, Ivan Viktorovich and the itProger school).</i>
-  </em>
+  <div style="margin-left: 30px; font-size: 14px;">
+    <i>"Grokking Algorithms" by Bhargava,<br>
+    "Programming in Python" by Vasiliev,<br>
+    Video courses (Alexander Ilyin, Vot Votyakov, Ivan Viktorovich and the itProger school).</i>
+  </div>
 </details>
 
 <!-- My projects -->
@@ -85,18 +81,18 @@ I work for a private wood products company as a <b>chief technologist</b>.
   </summary>
   <div style="margin-left: 30px;">
 <br>
-📚 Study
+<span style="font-size: 20px;">📚 Study</span>
 <br>
-<a href="https://github.com/Emperror-Art-IT/Votyakov_Python" target="_blank" rel="noopener noreferrer">Votyakov_Python</a>
+<a href="https://github.com/Emperror-Art-IT/Votyakov_Python" target="_blank" rel="noopener noreferrer" style="font-size: 16px;">Votyakov_Python</a>
 <br>
 <br>
-💼 Work
+<span style="font-size: 20px;">💼 Work</span>
 <br>
-<a href="https://github.com/Emperror-Art-IT/Optimal_cutting" target="_blank" rel="noopener noreferrer">Optimal_cutting</a>
+<a href="https://github.com/Emperror-Art-IT/Optimal_cutting" target="_blank" rel="noopener noreferrer" style="font-size: 16px;">Optimal_cutting</a>
  / 
-<a href="https://github.com/Emperror-Art-IT/Votyakov_Python" target="_blank" rel="noopener noreferrer">Cut1_from_13032026</a>
+<a href="https://github.com/Emperror-Art-IT/Votyakov_Python" target="_blank" rel="noopener noreferrer" style="font-size: 16px;">Cut1_from_13032026</a>
 <br>
-</em>
+</div>
 </details>
 
 
