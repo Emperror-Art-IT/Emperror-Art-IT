@@ -80,7 +80,7 @@ I work for a private wood products company as a <b>chief technologist</b>.
 <br>
 <a href="https://github.com/Emperror-Art-IT/Votyakov_Python" target="_blank" rel="noopener noreferrer">Votyakov_Python | Programming course</a>
 <br>
-[![Votyakov_Python](https://img.shields.io/badge/Votyakov_Python-8A2BE2)](https://github.com/Emperror-Art-IT/Votyakov_Python)
+[![Votyakov_Python](https://img.shields.io/badge/Votyakov_Python-808080?style=for-the-badge&labelColor=808080&color=808080)](https://github.com/Emperror-Art-IT/Votyakov_Python)
 <br>
 💼 Work
 <br>
