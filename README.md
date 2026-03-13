@@ -1,5 +1,12 @@
 [![Header](https://github.com/Emperror-Art-IT/Emperror-Art-IT/blob/main/assets/Header_picture.png)](https://t.me/emperrorart)
 
+<style>
+  .section-title { font-size: 20px; font-weight: bold; }
+  .normal-text { font-size: 16px; }
+  .book-list { font-size: 14px; margin-left: 30px; }
+  .book-list i { font-size: 14px; }
+</style>
+
 ## About Me
 <!-- <em style="font-style: italic;"> -->
 My name <b>Artem Gorbachevsky.</b> 
@@ -27,52 +34,63 @@ I work for a private wood products company as a <b>chief technologist</b>.
   </summary>
   <div style="margin-left: 30px;">
   <br>
-  <span style="font-size: 20px;">💼 Work Experience</span>
+  💼 Work Experience
   <br>
-  <span style="font-size: 16px;">2023 - 2026 - In a private company manufacturing wood products as a chief technologist.</span>
+  2023 - 2026 - In a private company manufacturing wood products as a chief technologist.
   <br>
-  <span style="font-size: 16px;">2018 - 2023 - In a private company manufacturing wood products as a technologist.</span>
+  2018 - 2023 - In a private company manufacturing wood products as a technologist.
   <br>
-  <span style="font-size: 16px;">2016 - 2028 - In a state-owned construction company as a construction and installation works foreman.</span>
+  2016 - 2028 - In a state-owned construction company as a construction and installation works foreman.
   <br>
-  <span style="font-size: 16px;">2014 - 2016 - In a state-owned construction company as a construction and installation works master.</span>
+  2014 - 2016 - In a state-owned construction company as a construction and installation works master.
   <br>
-  <span style="font-size: 16px;">2009 - 2014 - Belarusian-Russian University, Faculty of Industrial and Civil Engineering.</span>
-  <br>
-  <br>
-  <span style="font-size: 20px;">📚 Education</span>
-  <br>
-  <span style="font-size: 16px;">2009–2014 – Belarusian-Russian University, Faculty of Industrial and Civil Engineering.</span>
+  2009 - 2014 - Belarusian-Russian University, Faculty of Industrial and Civil Engineering.
   <br>
   <br>
-  <span style="font-size: 20px;">📖 Additional education</span>
+  📚 Education
   <br>
-  <span style="font-size: 16px;">2025 – Study of manual testing using books, videos, and courses.</span>
+  2009–2014 – Belarusian-Russian University, Faculty of Industrial and Civil Engineering.
   <br>
-  <div style="margin-left: 30px; font-size: 14px;">
-    <i>
+  <br>
+  📖 Additional education
+  <br>
+  2025 – Study of manual testing using books, videos, and courses.
+  <br>
+  <div class="book-list">
+  <i>
     "Software Testing" by Kulikov,<br>
     "QA Bible" by Eremeev,<br>
     "Tester from Scratch" by Rusov,<br>
-    "ISTQB CTFL Syllabus v4.0.1 RU",<br>
-    "A Practitioner's Guide to Software Test Design RU".<br>
-    Course "Software Testing: <a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer">Postman</a> for API Testing" by Konstantin Barzakovskiy on the Stepik platform, certificate: <a href="https://stepik.org/cert/2966616?lang=en" target="_blank" rel="noopener noreferrer">- link to certificate -</a><br>
-    Course "Software Testing: Preparing for <a href="https://istqb.org/" target="_blank" rel="noopener noreferrer">ISTQB</a> Foundation" by Anton Kholin on the Stepik platform, certificate: <a href="https://stepik.org/cert/2972572?lang=en" target="_blank" rel="noopener noreferrer">- link to certificate -</a>
-    </i>
-  </div>
-  <span style="font-size: 16px;">2025 – Study of manual testing based on an online course on the Stepik platform.</span>
+  </i>
+</div>
+  <i>&nbsp&nbsp&nbsp"Software Testing" by Kulikov, 
   <br>
-  <div style="margin-left: 30px; font-size: 14px;">
-    <i>Course "Software Testing from Scratch. Tests"<br>
-    Course "Software Testing from Scratch. Theory + Practice. BASIC Level" by Artem Rusov, certificate: <a href="https://stepik.org/cert/2955360?lang=en" target="_blank" rel="noopener noreferrer">- link to certificate -</a></i>
-  </div>
-  <span style="font-size: 16px;">2024 – Studying the basics of programming and the Python language through books, videos, and courses.</span>
+  &nbsp&nbsp&nbsp"QA Bible" by Eremeev, 
   <br>
-  <div style="margin-left: 30px; font-size: 14px;">
-    <i>"Grokking Algorithms" by Bhargava,<br>
-    "Programming in Python" by Vasiliev,<br>
-    Video courses (Alexander Ilyin, Vot Votyakov, Ivan Viktorovich and the itProger school).</i>
-  </div>
+  &nbsp&nbsp&nbsp"Tester from Scratch" by Rusov, 
+  <br>
+  &nbsp&nbsp&nbsp"ISTQB CTFL Syllabus v4.0.1 RU", 
+  <br>
+  &nbsp&nbsp&nbsp"A Practitioner's Guide to Software Test Design RU".
+  <br>
+  &nbsp&nbsp&nbspCourse "Software Testing: <a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer">Postman</a> for API Testing" by Konstantin Barzakovskiy on the Stepik platform, certificate: <a href="https://stepik.org/cert/2966616?lang=en" target="_blank" rel="noopener noreferrer">- link to certificate -</a>
+  <br>
+  &nbsp&nbsp&nbspCourse "Software Testing: Preparing for <a href="https://istqb.org/" target="_blank" rel="noopener noreferrer">ISTQB</a> Foundation" by Anton Kholin on the Stepik platform, certificate: <a href="https://stepik.org/cert/2972572?lang=en" target="_blank" rel="noopener noreferrer">- link to certificate -</a></i>
+  <br>
+  2025 – Study of manual testing based on an online course on the Stepik platform.
+  <br>
+  <i>&nbsp&nbsp&nbspCourse "Software Testing from Scratch. Tests"</i>
+  <br>
+  <i>&nbsp&nbsp&nbspCourse "Software Testing from Scratch. Theory + Practice. BASIC Level" by Artem Rusov, certificate: <a href="https://stepik.org/cert/2955360?lang=en" target="_blank" rel="noopener noreferrer">- link to certificate -</a></i>
+  <br>
+  2024 – Studying the basics of programming and the Python language through books, videos, and courses.
+  <br>
+  <i>&nbsp&nbsp&nbsp"Grokking Algorithms" by Bhargava, 
+  <br>
+  &nbsp&nbsp&nbsp"Programming in Python" by Vasiliev, 
+  <br>
+  &nbsp&nbsp&nbspVideo courses (Alexander Ilyin, Vot Votyakov, Ivan Viktorovich and the itProger school).</i>
+  </em>
 </details>
 
 <!-- My projects -->
@@ -81,18 +99,18 @@ I work for a private wood products company as a <b>chief technologist</b>.
   </summary>
   <div style="margin-left: 30px;">
 <br>
-<span style="font-size: 20px;">📚 Study</span>
+📚 Study
 <br>
-<a href="https://github.com/Emperror-Art-IT/Votyakov_Python" target="_blank" rel="noopener noreferrer" style="font-size: 16px;">Votyakov_Python</a>
+<a href="https://github.com/Emperror-Art-IT/Votyakov_Python" target="_blank" rel="noopener noreferrer">Votyakov_Python</a>
 <br>
 <br>
-<span style="font-size: 20px;">💼 Work</span>
+💼 Work
 <br>
-<a href="https://github.com/Emperror-Art-IT/Optimal_cutting" target="_blank" rel="noopener noreferrer" style="font-size: 16px;">Optimal_cutting</a>
+<a href="https://github.com/Emperror-Art-IT/Optimal_cutting" target="_blank" rel="noopener noreferrer">Optimal_cutting</a>
  / 
-<a href="https://github.com/Emperror-Art-IT/Votyakov_Python" target="_blank" rel="noopener noreferrer" style="font-size: 16px;">Cut1_from_13032026</a>
+<a href="https://github.com/Emperror-Art-IT/Votyakov_Python" target="_blank" rel="noopener noreferrer">Cut1_from_13032026</a>
 <br>
-</div>
+</em>
 </details>
 
 
