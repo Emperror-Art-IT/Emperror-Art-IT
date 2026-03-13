@@ -3,13 +3,14 @@
 ## About Me
 <!-- <em style="font-style: italic;"> -->
 My name <b>Artem Gorbachevsky.</b> 
+<br>
 I'm from Belarus.
 <br>
 I work for a private wood products company as a <b>chief technologist</b>.
 <br>
 <b>Link to my CV:</b>
-<a href="https://disk.yandex.ru/i/JTnVhzIQk-mqRw" target="_blank" rel="noopener noreferrer">English</a>/
-<a href="https://disk.yandex.ru/i/p0v5R2q0PD03mQ" target="_blank" rel="noopener noreferrer"> Russian</a>/
+<a href="https://disk.yandex.ru/i/JTnVhzIQk-mqRw" target="_blank" rel="noopener noreferrer">English</a> /
+<a href="https://disk.yandex.ru/i/p0v5R2q0PD03mQ" target="_blank" rel="noopener noreferrer"> Russian</a> /
 <a href="https://hh.ru/resume/de663738ff0ed1a3f10039ed1f4a494e58484f" target="_blank" rel="noopener noreferrer">HeadHunter</a> /
 <a href="https://www.linkedin.com/in/emperrorart/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 <br>
@@ -58,7 +59,7 @@ I work for a private wood products company as a <b>chief technologist</b>.
   <br>
   2009–2014 – Belarusian-Russian University, Faculty of Industrial and Civil Engineering.
   <br>
-  2023 - 2025 - In a private company manufacturing wood products as a chief technologist.
+  2023 - 2026 - In a private company manufacturing wood products as a chief technologist.
   <br>
   2018 - 2023 - In a private company manufacturing wood products as a technologist.
   <br>
