@@ -39,15 +39,17 @@ I work for a private wood products company as a <b>chief technologist</b>.
   <br>
   2009 - 2014 - Belarusian-Russian University, Faculty of Industrial and Civil Engineering.
   <br>
+  <br>
   📚 Education
   <br>
   2009–2014 – Belarusian-Russian University, Faculty of Industrial and Civil Engineering.
+  <br>
   <br>
   📖 Additional education
   <br>
   2025 – Study of manual testing using books, videos, and courses.
   <br>
-  <i>&nbsp&nbsp&nbsp"Software Testing" by Kulikov, 
+  &nbsp&nbsp&nbsp<span style="font-size: 16px;">"Software Testing" by Kulikov,</span> 
   <br>
   &nbsp&nbsp&nbsp"QA Bible" by Eremeev, 
   <br>
