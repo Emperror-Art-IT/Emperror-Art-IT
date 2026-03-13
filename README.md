@@ -3,15 +3,13 @@
 ## About Me
 <!-- <em style="font-style: italic;"> -->
 My name <b>Artem Gorbachevsky.</b> 
+I'm from Belarus.
 <br>
-I'm a beginner <b>manual tester</b> from Belarus</a>.
-<br>
-In the future, I would like to <b>automate testing</b>.
-<br>
+I work for a private wood products company as a <b>chief technologist</b>.
 <br>
 <b>Link to my CV:</b>
-<a href="https://disk.yandex.ru/i/JTnVhzIQk-mqRw" target="_blank" rel="noopener noreferrer">English</a>.pdf /
-<a href="https://disk.yandex.ru/i/p0v5R2q0PD03mQ" target="_blank" rel="noopener noreferrer"> Russian</a>.pdf /
+<a href="https://disk.yandex.ru/i/JTnVhzIQk-mqRw" target="_blank" rel="noopener noreferrer">English</a>/
+<a href="https://disk.yandex.ru/i/p0v5R2q0PD03mQ" target="_blank" rel="noopener noreferrer"> Russian</a>/
 <a href="https://hh.ru/resume/de663738ff0ed1a3f10039ed1f4a494e58484f" target="_blank" rel="noopener noreferrer">HeadHunter</a> /
 <a href="https://www.linkedin.com/in/emperrorart/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 <br>
@@ -27,6 +25,7 @@ In the future, I would like to <b>automate testing</b>.
   <summary><b>Education, Additional Education and Experience:</b>
   </summary>
   <div style="margin-left: 30px;">
+  <br>
   2025 – Study of manual testing using books, videos, and courses.
   <br>
   <i>&nbsp&nbsp&nbsp"Software Testing" by Kulikov, 
@@ -71,22 +70,22 @@ In the future, I would like to <b>automate testing</b>.
   </em>
 </details>
 
-<!-- Мои проекты -->
+<!-- My projects -->
 <details>
 <summary><b>My projects:</b>
   </summary>
   <div style="margin-left: 30px;">
 <br>
-📚 Учеба
-<br>
-<a href="https://github.com/Emperror-Art-IT/Self-education" target="_blank" rel="noopener noreferrer">Self-education | Training materials for testers</a>
+📚 Study
 <br>
 <a href="https://github.com/Emperror-Art-IT/Votyakov_Python" target="_blank" rel="noopener noreferrer">Votyakov_Python | Programming course</a>
 <br>
-💼 Работа
+💼 Work
 <br>
-[Optimal_cutting](https://github.com/Emperror-Art-IT/Optimal_cutting) | Cutting optimization |
-[Cut1_from_13032026](https://github.com/Emperror-Art-IT/Cut1_from_13032026) | Скрипт раскроя |
+<a href="https://github.com/Emperror-Art-IT/Optimal_cutting" target="_blank" rel="noopener noreferrer">Optimal_cutting | Скрипт раскроя</a>
+<br>
+<a href="https://github.com/Emperror-Art-IT/Votyakov_Python" target="_blank" rel="noopener noreferrer">Cut1_from_13032026 | Таблица раскроя</a>
+<br>
 </em>
 </details>
 
